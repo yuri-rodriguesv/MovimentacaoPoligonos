@@ -1,0 +1,39 @@
+﻿  TrabalhoM1Part1.cpp
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(104,21): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(106,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(230,13): warning C4244: 'inicializando': conversão de '_Ty1' para 'float', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(230,13): warning C4244:         with
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(230,13): warning C4244:         [
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(230,13): warning C4244:             _Ty1=int
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(230,13): warning C4244:         ]
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(231,13): warning C4244: 'inicializando': conversão de '_Ty2' para 'float', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(231,13): warning C4244:         with
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(231,13): warning C4244:         [
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(231,13): warning C4244:             _Ty2=int
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(231,13): warning C4244:         ]
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,32): warning C4244: 'argumento': conversão de 'float' para 'const unsigned __int64', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,62): warning C4244: 'argumento': conversão de 'float' para 'const unsigned __int64', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,66): warning C4244: 'argumento': conversão de '_Ty2' para 'GLfloat', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,66): warning C4244:         with
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,66): warning C4244:         [
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,66): warning C4244:             _Ty2=double
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,66): warning C4244:         ]
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,36): warning C4244: 'argumento': conversão de '_Ty1' para 'GLfloat', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,36): warning C4244:         with
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,36): warning C4244:         [
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,36): warning C4244:             _Ty1=double
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(232,36): warning C4244:         ]
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,32): warning C4244: 'argumento': conversão de 'float' para 'const unsigned __int64', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,62): warning C4244: 'argumento': conversão de 'float' para 'const unsigned __int64', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,66): warning C4244: 'argumento': conversão de '_Ty2' para 'GLfloat', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,66): warning C4244:         with
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,66): warning C4244:         [
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,66): warning C4244:             _Ty2=double
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,66): warning C4244:         ]
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,36): warning C4244: 'argumento': conversão de '_Ty1' para 'GLfloat', possível perda de dados
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,36): warning C4244:         with
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,36): warning C4244:         [
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,36): warning C4244:             _Ty1=double
+C:\Users\7634862\Desktop\Projeto\TrabalhoM1Part1\TrabalhoM1Part1.cpp(233,36): warning C4244:         ]
+  TrabalhoM1Part1.vcxproj -> C:\Users\7634862\Desktop\Projeto\x64\Debug\TrabalhoM1Part1.exe
+          1 arquivo(s) copiado(s).
